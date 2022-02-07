@@ -37,7 +37,7 @@
             type="email"
             id="email"
             name="email"
-            placeholder="Your Email"
+            placeholder="Enter your Email-ID"
             oninvalid="this.setCustomValidity('Please provide valid email')"
             oninput="setCustomValidity('')"
             required
