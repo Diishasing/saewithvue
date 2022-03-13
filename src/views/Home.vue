@@ -257,7 +257,7 @@ export default {
     return {
       v: null,
       video: false,
-      carouselImage: ["2", "3", "4", "5"],
+      carouselImage: ["0","5","4","3","2"],
       details: [
         {
           icon: "flag.png",
