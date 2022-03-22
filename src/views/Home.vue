@@ -182,7 +182,7 @@
           </div>
           <iframe
             v-if="video"
-            src="https://www.youtube.com/embed/q6yPVslIujk?loop=1&rel=0&modestbranding=0$iv_load_policy=3"
+            src="https://www.youtube.com/embed/B36d2OTvtKI"
             frameborder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen

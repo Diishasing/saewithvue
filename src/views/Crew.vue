@@ -368,16 +368,7 @@ export default {
                 { name: "linkedin", image: "linkedin.png", link: "http://www.linkedin.com/in/md-ali-gauhar-ba4219195" }
               ]
             },
-             {
-               name: "Arquam Hashim Siddiqui",
-               position: "Ergonomics",
-               image: "arquam hashim.jpg",
-               links: [
-                 { name: "insta", image: "insta.png", link: "https://www.instagram.com/arquam_ibn_hashim/" },
-                 { name: "email", image: "email.png", link: "mailto:ahsiddiquie@zhcet.ac.in" },
-                 { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/arquam-hashim-siddiquie-13b6b716b" }
-               ]
-             }
+            
           ]
         },
         {
@@ -671,20 +662,7 @@ export default {
               { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/mohd-suboor-18b594171" }
             ]
             },
-            {
-              name: "Sarif Anwar",
-              position: "Captain FB2020",
-              image: "IMG-20191124-WA0025.jpg",
-              links: [
-                {
-                  name: "insta",
-                  image: "insta.png",
-                  link: "https://instagram.com/sarif_zfr?igshid=l1i3eze28tbo"
-                },
-                { name: "email", image: "email.png", link: "mailto:sarifanwar8266@gmail.com" },
-                { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/sarif-anwar" }
-              ]
-            },
+            
             {
               name: "Burhan Shamsi",
               position: "Manager FB2021",
@@ -700,20 +678,7 @@ export default {
                 { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/md-burhan-shamsi-a182b6171" }
               ]
             },
-            {
-              name: "Tashif khan",
-              position: "V.D Lead FB2020",
-              image: "IMG_20191125_201318.jpg",
-              links: [
-                {
-                  name: "insta",
-                  image: "insta.png",
-                  link: "https://instagram.com/sartashtic?igshid=p4v0i9b5oxfx"
-                },
-                { name: "email", image: "email.png", link: "mailto:mohdtashif@zhcet.ac.in" },
-                { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/mohammad-tashif-431697143" }
-              ]
-            },
+            
             {
               name: "Rehan Abad Siddiqui",
               position: "Team Mentor",
@@ -757,21 +722,7 @@ export default {
                 { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/shubham-jain-891726144" }
               ]
             },
-            {
-              name: "Hina Tomar",
-              position: "Electronics Member FB2020",
-              image: "IMG_20191125_200003.jpg",
-              links: [
-                {
-                  name: "insta",
-                  image: "insta.png",
-                  link:
-                    "https://instagram.com/hinatomar868?igshid=1szlw7xxvvsrd"
-                },
-                { name: "email", image: "email.png", link: "mailto:hinatomar868@gmail.com" },
-                { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/hinatomar22" }
-              ]
-            }
+            
       ]
     };
   }
@@ -780,7 +731,7 @@ export default {
 
 <style scoped>
 main {
-  background-image: url("../assets/images/background/carback.jpg");
+  background-color: rgb(35, 34, 34);
   background-size: 100vw 100vh;
   background-attachment: fixed;
   position: relative;
@@ -930,7 +881,7 @@ main > div {
 }
 @media screen and (max-width: 991px) {
   main {
-    background-image: url("../assets/images/background/carback.r.jpg");
+    background-color:  rgb(35, 34, 34);
   }
   #zfr5 {
     top: -60px;
