@@ -417,20 +417,7 @@ export default {
                 { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/md-mobassir-alam-30980221b" }
               ]
             },
-            {
-              name: "Disha Singh",
-              position: "Cooling Systems",
-              image: "DishaSing.jpeg",
-              links: [
-                {
-                  name: "insta",
-                  image: "insta.png",
-                  link: "#"
-                },
-                { name: "email", image: "email.png", link: "diishasiing@gmail.com" },
-                { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/diishasiing10122002/" }
-              ]
-            },
+           
           ]
         },
         {
@@ -464,7 +451,7 @@ export default {
             // },
             
             {
-              name: "Syed Imamuddin",
+              name: "Syed Imaduddin",
               position: "Harness",
               image: "syed imamuddin.jpg",
               links: [
@@ -580,6 +567,20 @@ export default {
                 { name: "insta", image: "insta.png", link: "#" },
                 { name: "email", image: "email.png", link: "#" },
                 { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/hasan-abid/" }
+              ]
+            },
+             {
+              name: "Disha Singh",
+              position: "Management",
+              image: "DishaSing.jpeg",
+              links: [
+                {
+                  name: "insta",
+                  image: "insta.png",
+                  link: "#"
+                },
+                { name: "email", image: "email.png", link: "diishasiing@gmail.com" },
+                { name: "linkedin", image: "linkedin.png", link: "https://www.linkedin.com/in/diishasiing10122002/" }
               ]
             },
           

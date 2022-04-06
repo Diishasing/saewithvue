@@ -272,8 +272,8 @@ export default {
         {
           icon: "car.png",
           heading: "Our Cars",
-          body: `Till now our club has made 4 cars out of which ZFR4.0 is latest and we are working on
-              ZFR5.0`,
+          body: `Till now our club has made 5 cars out of which ZFR5.0 is latest and we are working on
+              ZFR-EV, ZFR 6.0 and other future projects.`,
           link: "Cars",
           image: "collage.jpg",
           webp: "collage.webp"
@@ -282,7 +282,7 @@ export default {
           icon: "mechanic.png",
           heading: "Our Crew",
           body:
-            "Meet the students who AMU, who are working day and night to make zfr better.",
+            "Meet the students of AMU, who are working day and night to make ZFR better.",
           image: "team.jpeg",
           webp: "team.webp",
           link: "Crew"

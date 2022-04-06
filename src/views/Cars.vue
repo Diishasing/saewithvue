@@ -144,7 +144,7 @@ export default {
         }
       ],
       upcomingCar: {
-        image: "coming_soon.jpg",
+        image: "0.jpg",
         link: "cars/zfr-5.0",
         name: "ZFR 5.0",
         id: 6
